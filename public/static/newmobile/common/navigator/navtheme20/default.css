@@ -1,0 +1,7 @@
+.m-custom-nav ul{ margin-left: 1px;   margin-top: 1em;}
+.m-custom-nav ul li{width:25%;height: auto;float:left;position:relative;}
+.m-custom-nav ul a:nth-child(4n) li{border-right:none;}
+.m-custom-nav ul li .grid { padding: 4px 0;  margin-top: -1px; margin-left: -1px; border-left:1px solid #dadada; border-right: 1px solid #dadada; border-bottom: 1px solid #dadada; border-top: 1px solid #dadada;}
+.m-custom-nav ul li .hs_nav_i{width: 4em; width:100%; overflow:hidden; display:block;}
+.m-custom-nav ul li .text-center{text-align:center;line-height:1.8em;height:1.8em;overflow:hidden;color:gray;}
+.m-custom-nav ul li img{width: 4em;max-height:4em;display:block; margin:0 auto;border-radius: 50%; -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%;}

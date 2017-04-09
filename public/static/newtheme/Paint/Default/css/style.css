@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* 主体和头部 */
+.g-hd{background: url("../img/top_line_bg.jpg") repeat-x 0 0;}
+/* 导航 */
+.m-nav .u-first{border-left:none;}
+.m-nav ul li{color:#fff;}
+.m-nav ul li a{color:#fff;}
+.m-nav ul li a:hover{color:#fff;}
+.m-nav ul li ul {background-color:#000}
+.m-nav ul li ul li ul {background-color:#000}
+.m-nav ul li ul.last li ul{background-color:#000}
+.m-nav ul ul li {color:#fff;}
+.m-nav>ul>li.select {color:#fff;background: url("../img/navbg2.gif") no-repeat 0 0;}
+.m-nav>ul>li.select>a{color:#fff;background: url("../img/navbg.gif") no-repeat right 0;}
+
+
+/* 默认框(专用样式) mod26 */
+.m-default-default .m-wg-hd{color:#000;}
+
+/* 搜索(专用样式) */
+.m-search{border:2px solid #363636;}
+.m-search .u-search-btn{background:#363636;}
+
+/* 脚部 */
+.g-ft {background:#414141;}
+.g-ft,.g-ft a,.ft ahover{color:#fff}
+.m-ft-nav span{}
+
+/* 二级页公共样式 */
+/* 背景颜色 */
+.m-theme14 .m-sort ul li a.u-current, .m-theme25 .u-buy a:hover, .g-common .m-view-time, .m-view-curent, .m-go-buy a.u-sysbtn{background: #303030;}
+/* 选中时的字体颜色 */
+.m-theme14 .m-sort ul li a.u-current, .m-theme25 .u-buy a:hover, .g-common .m-view-time, .m-view-curent, .m-go-buy a.u-sysbtn {color: #fff;}
+/* 带颜色的字体 */
+.m-theme8 .u-price, .g-common .u-price, .g-common .m-left-time span{color: #303030;} 
+/* 边框颜色 */
+.m-theme14 .m-sort ul li a.u-current, .m-theme25 .u-buy a:hover, .g-common .g-view-menu ul li{border: 1px solid #303030;}
+/* 顶部边框 */
+.m-bottom-line, .g-common .g-view-menu ul li.first{border-top: 1px solid #303030;}
+/* 左边边框 */
+.g-common .g-view-menu ul li.first {border-left: 1px solid #303030;}
+/* 底部边框 */
+.m-view-curent, .m-go-buy a.u-sysbtn{border-bottom: 1px solid #303030;}
+/* 购买鼠标放上时的颜色 */
+.m-go-buy a.u-sysbtn:hover, .m-theme25 .u-buy a:hover{background: #525252;}
+/* 购买时间底色 */
+.g-common .m-left-time span {background: #ffed03;}
