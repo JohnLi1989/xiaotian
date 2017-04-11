@@ -4,16 +4,18 @@
 	<meta name="renderer" content="webkit">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta charset="utf-8" />
-	<title>鼎融金融终端机-信用卡-贷款-鼎融金融有限公司</title>
+	<title>众信金融终端机-信用卡-贷款-众信金融有限公司</title>
 	<meta name="keywords" content="关键词1,关键词2,关键词3" />
-	<meta name="description" content="SiteName-鼎融金融有限公司" />
+	<meta name="description" content="SiteName-众信金融有限公司" />
 	<meta http-equiv="Cache-Control" content="no-transform" />
 			<link href="http://cdn033.yun-img.com/static/upload/zxjrjt/logo/20161102120905_18724.png" rel="shortcut icon" />
 		<link href="static/newtheme/common/css/modules-v=2015082101.css" rel="stylesheet" type="text/css" />
 	<link href="static/newtheme/Paint/common/css/common-v=2015082102.css" rel="stylesheet" type="text/css" />
 	<link href="static/newtheme/Paint/Default/css/style-v=201504071709.css" rel="stylesheet" type="text/css" />
-	<style type='text/css'>.g-main,.g-hd-inner,.g-ft-inner{ width:1036px }
-	    		.g-hd-outer{background: url("http://cdn033.yun-img.com/static/upload/a00239/focus/20160307165555_80081.png") ;}
+	<style type='text/css'>
+		*{background-color: #f3eeee}
+		.g-main,.g-hd-inner,.g-ft-inner{ width:1036px }
+		.g-hd-outer{background: url("http://cdn033.yun-img.com/static/upload/a00239/focus/20160307165555_80081.png") ;}
 			</style>
 	<script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js?v=201504071709"></script>
 	<script type="text/javascript" src="static/js/library/SuperSlide/jquery.SuperSlide.2.1.1-v=201504071709.js"></script>
@@ -65,8 +67,8 @@
 							<div class='g-hd-sd1'>
 								<!-- LOGO -->
 																<div class="m-logo"
-									  style="position:relative;left:10px;top:20px" id="set_logo">
-									<a href="index.html"><img src="/static/img/logo.png" alt="" style="width:300px"></a>
+									  style="position:relative;top:-17px;left:-2px;" id="set_logo">
+									<a href="index.html"><img src="http://cdn033.yun-img.com/static/upload/zxjrjt/logo/20161102101810_93349.png" alt="" style="width:379px;height:98px;"></a>
 								</div>
 																<!-- LOGO end -->
 							</div>
@@ -80,7 +82,7 @@
 										</div>
 									-->
 																		<div class="clearing"></div>
-									<div class='m-nav' id='set_menu' style="right:20px;top:40px">
+									<div class='m-nav' id='set_menu'>
 
 <style class='m-nav-style'>/*****判断页面是否需要更改***/
           .m-nav{
@@ -103,7 +105,7 @@
 	<ul>
 		<!--<li class='u-first'><a href="/">首页</a></li>-->
 				<li>
-											<a href="index.html" >首页</a>
+											<a href="index.php.html" >首页</a>
 				            						</li>
 				<li>
 											<a href="about.html" >关于我们</a>
@@ -200,16 +202,16 @@ $.fn.levelmenu = function(){
 		<div class="m_foucs6_wrap" style=" height:600px;">
 	    	<ul id="m_foucs6_ul" class="m_foucs6_ul" style=" height:600px;" >
 	    			        	<li class="slide">
-	        							<a href="index.html#"><img src="http://cdn033.yun-img.com/static/upload/zxjrjt/focus/20161102195008_55460.jpg"/></a>
+	        							<a href="index.php.html#"><img src="http://cdn033.yun-img.com/static/upload/zxjrjt/focus/20161102195008_55460.jpg"/></a>
 						        	</li>
 	            	        </ul>
 
-	    	<ol id="m_foucs6_ol" class="m_foucs6_ol">
+	    	<!--<ol id="m_foucs6_ol" class="m_foucs6_ol">
 	    			    			        			<li class="goto-slide active" data-slideindex="0"></li>
         			        		         	</ol>
 
 	        <span id="prev">&lt;</span>
-	        <span id="next">&gt;</span>
+	        <span id="next">&gt;</span>-->
 	    </div>	
 	</div>
 
@@ -270,7 +272,7 @@ $(function(){
 	<tbody>
 		<tr>
 			<td rowspan="5" style="text-align:right;">
-				<span style="white-space:nowrap;"><img src="http://cdn033.yun-img.com/static/upload/zxjrjt/visualtoolkit/20161102171127_14725.png" alt="" /><br />
+				<span style="white-space:nowrap;"><img src="/static/img/aboutus.png" alt="" style="height:200px"/><br />
 </span> 
 			</td>
 			<td>
@@ -292,7 +294,7 @@ $(function(){
 			</td>
 			<td>
 				<p>
-					<span style="white-space:nowrap;font-size:18px;">鼎融金融信息技术有限公司，是集网络 金融服务，投资管理，策划,制作，数据处理，综合</span>
+					<span style="white-space:nowrap;font-size:18px;">众信金融信息技术有限公司，是集网络 金融服务，投资管理，策划,制作，数据处理，综合</span> 
 				</p>
 				<p>
 					<span style="white-space:nowrap;font-size:18px;">方案解决商</span><span style="font-size:18px;white-space:nowrap;line-height:1.5;">为一体的本土领先行业.公司成立，面对激烈的市场竞争和强大的市场壁垒。</span> 
@@ -366,7 +368,7 @@ $(function(){
 </table></div>
 	</div>
 </div>
-<!-- 模块 end  duangou--><div class="m-wg m-default m-default-default" id="visualmodule_17" style='width:511px;height:584px;float:left;border-style:none;border-width:1px;border-color:#f7f7f7;margin-left:0px;margin-right:0px;margin-top:20px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;'>
+<!-- 模块 end  duangou--><div class="m-wg m-default m-default-default" id="visualmodule_17" style='width:100%;height:584px;float:left;border-style:none;border-width:1px;border-color:#f7f7f7;margin-left:0px;margin-right:0px;margin-top:20px;margin-bottom:10px;padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;'>
 		<style type='text/css' class='m-wg-hd-style'>#visualmodule_17 .m-wg-hd h2{font-family:inherit;font-size:24px;}</style>	<div class="m-wg-hd">
 		<h2>最新资讯</h2>
 				<a title="最新资讯" class="more" href="news.html">更多&gt;&gt;</a>
@@ -562,22 +564,20 @@ $(function(){
 <!-- 脚部 -->
 <footer class="g-ft g-ft-edit">
 	<!-- 脚部980 -->
-	<div class="g-ft-inner">
+	<div class="g-ft-inner" style="background: #414141;">
 		<!-- 脚部自定义模块 -->
-				<div class="m-ft-foothtml" >
-			<div id="set_foothtml"></div>
-		</div>
+				
 				<!-- 脚部自定义模块 end -->
 		<!-- 脚部菜单 -->
-				<div class="m-ft-nav" id="set_footmenu" >
+				<div class="m-ft-nav" id="set_footmenu" style="background: #414141;">
 					</div>
 				<!-- 脚部菜单 end -->
 		<!-- 脚部信息 -->
-		<div class="m-ft-text">
-						<span id="set_copyright" >copyright ©2012</span>
-									<span id="set_beian" ><a target="_blank" href="http://www.miitbeian.gov.cn/"> 公网安备 110000021111113号</a>&nbsp;&nbsp;&nbsp;</span>
-									<span id="set_telphone" >40088888899&nbsp;&nbsp;&nbsp;</span>
-									<span id="set_address" >广东省广州市天河区科韵路森汇创新产业园&nbsp;&nbsp;&nbsp;</span>
+		<div class="m-ft-text" style="background: #414141;">
+						<span id="set_copyright" style="background: #414141;">copyright ©2012</span>
+									<span id="set_beian" style="background: #414141;"><a target="_blank" href="http://www.miitbeian.gov.cn/" style="background: #414141;"> 公网安备 110000021111113号</a>&nbsp;&nbsp;&nbsp;</span>
+									<span id="set_telphone" style="background: #414141;">40088888899&nbsp;&nbsp;&nbsp;</span>
+									<span id="set_address" style="background: #414141;">广东省广州市天河区科韵路森汇创新产业园&nbsp;&nbsp;&nbsp;</span>
 								</div>
 		<!-- 脚部信息 end -->
 	</div>
