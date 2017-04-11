@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4e24f0-5d85-4eb2-91dc-1f4b55943d54" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/_downloads.html" afterPath="$PROJECT_DIR$/public/_downloads.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about.html" afterPath="$PROJECT_DIR$/public/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact.html" afterPath="$PROJECT_DIR$/public/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.php.html" afterPath="$PROJECT_DIR$/public/index.php.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news-page=1.html" afterPath="$PROJECT_DIR$/public/news-page=1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news-page=2.html" afterPath="$PROJECT_DIR$/public/news-page=2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news-page=3.html" afterPath="$PROJECT_DIR$/public/news-page=3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news.html" afterPath="$PROJECT_DIR$/public/news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news_529563-page=1.html" afterPath="$PROJECT_DIR$/public/news_529563-page=1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news_529563-page=2.html" afterPath="$PROJECT_DIR$/public/news_529563-page=2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news_529563-page=3.html" afterPath="$PROJECT_DIR$/public/news_529563-page=3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news_529563.html" afterPath="$PROJECT_DIR$/public/news_529563.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_338173.html" afterPath="$PROJECT_DIR$/public/newsdetail_338173.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_338174.html" afterPath="$PROJECT_DIR$/public/newsdetail_338174.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_338175.html" afterPath="$PROJECT_DIR$/public/newsdetail_338175.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_338179.html" afterPath="$PROJECT_DIR$/public/newsdetail_338179.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_338180.html" afterPath="$PROJECT_DIR$/public/newsdetail_338180.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_338181.html" afterPath="$PROJECT_DIR$/public/newsdetail_338181.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_339449.html" afterPath="$PROJECT_DIR$/public/newsdetail_339449.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_340211.html" afterPath="$PROJECT_DIR$/public/newsdetail_340211.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_340421.html" afterPath="$PROJECT_DIR$/public/newsdetail_340421.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_340425.html" afterPath="$PROJECT_DIR$/public/newsdetail_340425.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_340437.html" afterPath="$PROJECT_DIR$/public/newsdetail_340437.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_340446.html" afterPath="$PROJECT_DIR$/public/newsdetail_340446.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_340665.html" afterPath="$PROJECT_DIR$/public/newsdetail_340665.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_340948.html" afterPath="$PROJECT_DIR$/public/newsdetail_340948.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_341236.html" afterPath="$PROJECT_DIR$/public/newsdetail_341236.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_343827.html" afterPath="$PROJECT_DIR$/public/newsdetail_343827.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_347930.html" afterPath="$PROJECT_DIR$/public/newsdetail_347930.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_349353.html" afterPath="$PROJECT_DIR$/public/newsdetail_349353.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_349360.html" afterPath="$PROJECT_DIR$/public/newsdetail_349360.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_350675.html" afterPath="$PROJECT_DIR$/public/newsdetail_350675.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_351967.html" afterPath="$PROJECT_DIR$/public/newsdetail_351967.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_354674.html" afterPath="$PROJECT_DIR$/public/newsdetail_354674.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/newsdetail_357425.html" afterPath="$PROJECT_DIR$/public/newsdetail_357425.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
-    </list>
+    <list default="true" id="9f4e24f0-5d85-4eb2-91dc-1f4b55943d54" name="Default" comment="" />
     <ignored path="xiaotian.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -159,6 +121,7 @@
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -255,7 +218,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/work/Rabbitpre2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="true" />
@@ -275,18 +238,18 @@
       <updated>1491828919737</updated>
       <workItem from="1491828921146" duration="276000" />
       <workItem from="1491830343021" duration="193000" />
-      <workItem from="1491892208602" duration="216000" />
+      <workItem from="1491892208602" duration="367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="685000" />
+    <option name="totallyTimeSpent" value="836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-212" width="1920" height="1080" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286004" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -548,6 +511,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
